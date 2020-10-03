@@ -1,5 +1,5 @@
 {
-  "name": "react-native-config",
+  "name": "@gcqwant/react-native-config",
   "version": "1.3.3",
   "description": "Expose config variables to React Native apps",
   "keywords": [
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/luggit/react-native-config"
+    "url": "https://github.com/gcqwant/react-native-config"
   },
   "private": false,
   "author": "Pedro Belo",
